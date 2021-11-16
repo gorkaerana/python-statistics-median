@@ -1,3 +1,0 @@
-# python-statistics-median
-
-A drop-in replacement for Python's native [`statistics.median`](https://docs.python.org/3/library/statistics.html#statistics.median)
