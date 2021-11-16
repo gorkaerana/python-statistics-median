@@ -1,0 +1,6 @@
+# Emacs autosave and backup files
+*~
+\#*
+
+# Python cache
+__pycache__/*
